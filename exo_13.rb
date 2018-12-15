@@ -2,7 +2,7 @@ puts "Qu'elle est ton année de naissance?"
 
 naissance = gets.chomp.to_i
 
-puts naissance
+puts naissance 
 
 
 
