@@ -9,4 +9,3 @@ puts "jean.dupont.#{i}@email.fr"
 	tableau << "jean.dupont.#{i}@email.fr"
 
 end
-
