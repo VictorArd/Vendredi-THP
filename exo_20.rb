@@ -9,5 +9,5 @@ i = "#"
 nombre.times  do |pyramide|
 		puts i
 		i = "#" + i
-		break if pyramide > 25
+		break if pyramide >= 25
 end
